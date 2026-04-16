@@ -1,0 +1,20 @@
+clusterName: kubernetes
+
+kubescape:
+
+  # Enable prometheus pod annotations,to allow your opensource prometheus (not operator) to scrape metrics
+  prometheusAnnotation:
+    enabled: true
+  
+#   # -- submit results to the Kubescape cloud: https://cloud.armosec.io/
+  # submit: false
+
+  # serviceMonitor:
+  #   # -- enable/disable service monitor for prometheus (operator) integration
+  # enabled: false
+
+capabilities:
+  # Kubescape integration with Prometheus Community Helm chart
+  prometheusExporter: enable
+
+# --set armoKubescape.submit=false --set armoKubescape.enableHostScan=false --set armoKubescape.downloadArtifacts=false
