@@ -1,4 +1,4 @@
-# Lesson 28.4 — Installing Falco with Sidekick UI on Kubernetes 1.30
+# Lesson 3.4 — Installing Falco with Sidekick UI on Kubernetes 1.30
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 

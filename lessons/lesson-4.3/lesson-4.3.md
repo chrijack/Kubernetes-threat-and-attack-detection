@@ -1,4 +1,4 @@
-# Lesson 29.3 — Identifying Anomalies and Suspicious Patterns in Kubernetes Audit Logs
+# Lesson 4.3 — Identifying Anomalies and Suspicious Patterns in Kubernetes Audit Logs
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 

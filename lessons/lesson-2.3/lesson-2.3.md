@@ -1,4 +1,4 @@
-# Lesson 27.3 — Audit Logging Tuning and Batch Parameters
+# Lesson 2.3 — Audit Logging Tuning and Batch Parameters
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 

@@ -1,4 +1,4 @@
-# Lesson 28.1 — System Call Monitoring with strace, sysdig, and SCAP
+# Lesson 3.1 — System Call Monitoring with strace, sysdig, and SCAP
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 

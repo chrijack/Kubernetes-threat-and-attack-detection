@@ -1,4 +1,4 @@
-# Lesson 26.2 — Read-Only File System in Kubernetes Pods
+# Lesson 1.2 — Read-Only File System in Kubernetes Pods
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 

@@ -21,33 +21,33 @@ All lesson materials are located in the `lessons/` directory.
 
 | Lesson | Topic | Link |
 |--------|-------|------|
-| 26.2 | Read-Only File System in Kubernetes Pods | [lessons/lesson-26.2/lesson-26.2.md](lessons/lesson-26.2/lesson-26.2.md) |
-| 26.3 | Enforce Immutability with Validating Admission Policy | [lessons/lesson-26.3/lesson-26.3.md](lessons/lesson-26.3/lesson-26.3.md) |
+| 1.2 | Read-Only File System in Kubernetes Pods | [lessons/lesson-1.2/lesson-1.2.md](lessons/lesson-1.2/lesson-1.2.md) |
+| 1.3 | Enforce Immutability with Validating Admission Policy | [lessons/lesson-1.3/lesson-1.3.md](lessons/lesson-1.3/lesson-1.3.md) |
 
 ### Lesson 2: Use Kubernetes Audit Logs to Monitor Access
 
 | Lesson | Topic | Link |
 |--------|-------|------|
-| 27.2 | Kubernetes Audit Policy Configuration | [lessons/lesson-27.2/lesson-27.2.md](lessons/lesson-27.2/lesson-27.2.md) |
-| 27.3 | Audit Logging Tuning and Batch Parameters | [lessons/lesson-27.3/lesson-27.3.md](lessons/lesson-27.3/lesson-27.3.md) |
-| 27.4 | Kubernetes Audit Logging with Grafana Loki | [lessons/lesson-27.4/lesson-27.4.md](lessons/lesson-27.4/lesson-27.4.md) |
+| 2.2 | Kubernetes Audit Policy Configuration | [lessons/lesson-2.2/lesson-2.2.md](lessons/lesson-2.2/lesson-2.2.md) |
+| 2.3 | Audit Logging Tuning and Batch Parameters | [lessons/lesson-2.3/lesson-2.3.md](lessons/lesson-2.3/lesson-2.3.md) |
+| 2.4 | Kubernetes Audit Logging with Grafana Loki | [lessons/lesson-2.4/lesson-2.4.md](lessons/lesson-2.4/lesson-2.4.md) |
 
 ### Lesson 3: Detect Malicious Activity, Threats, and Attacks
 
 | Lesson | Topic | Link |
 |--------|-------|------|
-| 28.1 | System Call Monitoring with strace, sysdig, and SCAP | [lessons/lesson-28.1/lesson-28.1.md](lessons/lesson-28.1/lesson-28.1.md) |
-| 28.3 | Falco Linux Installation and Runtime Security | [lessons/lesson-28.3/lesson-28.3.md](lessons/lesson-28.3/lesson-28.3.md) |
-| 28.4 | Installing Falco with Sidekick UI on Kubernetes 1.30 | [lessons/lesson-28.4/lesson-28.4.md](lessons/lesson-28.4/lesson-28.4.md) |
-| 28.5 | Falco Event Analysis for Kubernetes Security | [lessons/lesson-28.5/lesson-28.5.md](lessons/lesson-28.5/lesson-28.5.md) |
+| 3.1 | System Call Monitoring with strace, sysdig, and SCAP | [lessons/lesson-3.1/lesson-3.1.md](lessons/lesson-3.1/lesson-3.1.md) |
+| 3.3 | Falco Linux Installation and Runtime Security | [lessons/lesson-3.3/lesson-3.3.md](lessons/lesson-3.3/lesson-3.3.md) |
+| 3.4 | Installing Falco with Sidekick UI on Kubernetes 1.30 | [lessons/lesson-3.4/lesson-3.4.md](lessons/lesson-3.4/lesson-3.4.md) |
+| 3.5 | Falco Event Analysis for Kubernetes Security | [lessons/lesson-3.5/lesson-3.5.md](lessons/lesson-3.5/lesson-3.5.md) |
 
 ### Lesson 4: Investigate and Identify Signs of Compromise
 
 | Lesson | Topic | Link |
 |--------|-------|------|
-| 29.1 | MITRE Container Framework Demo | [lessons/lesson-29.1/lesson-29.1.md](lessons/lesson-29.1/lesson-29.1.md) |
-| 29.2 | Kubernetes Security Monitoring with Loki, Prometheus, and Grafana | [lessons/lesson-29.2/lesson-29.2.md](lessons/lesson-29.2/lesson-29.2.md) |
-| 29.3 | Identifying Anomalies and Suspicious Patterns in Kubernetes Audit Logs | [lessons/lesson-29.3/lesson-29.3.md](lessons/lesson-29.3/lesson-29.3.md) |
+| 4.1 | MITRE Container Framework Demo | [lessons/lesson-4.1/lesson-4.1.md](lessons/lesson-4.1/lesson-4.1.md) |
+| 4.2 | Kubernetes Security Monitoring with Loki, Prometheus, and Grafana | [lessons/lesson-4.2/lesson-4.2.md](lessons/lesson-4.2/lesson-4.2.md) |
+| 4.3 | Identifying Anomalies and Suspicious Patterns in Kubernetes Audit Logs | [lessons/lesson-4.3/lesson-4.3.md](lessons/lesson-4.3/lesson-4.3.md) |
 
 ---
 
@@ -68,18 +68,18 @@ All lesson materials are located in the `lessons/` directory.
 ├── README.md
 ├── .gitignore
 ├── lessons/
-│   ├── lesson-26.2/
-│   ├── lesson-26.3/
-│   ├── lesson-27.2/
-│   ├── lesson-27.3/
-│   ├── lesson-27.4/
-│   ├── lesson-28.1/
-│   ├── lesson-28.3/
-│   ├── lesson-28.4/
-│   ├── lesson-28.5/
-│   ├── lesson-29.1/
-│   ├── lesson-29.2/
-│   └── lesson-29.3/
+│   ├── lesson-1.2/
+│   ├── lesson-1.3/
+│   ├── lesson-2.2/
+│   ├── lesson-2.3/
+│   ├── lesson-2.4/
+│   ├── lesson-3.1/
+│   ├── lesson-3.3/
+│   ├── lesson-3.4/
+│   ├── lesson-3.5/
+│   ├── lesson-4.1/
+│   ├── lesson-4.2/
+│   └── lesson-4.3/
 ```
 
 ---

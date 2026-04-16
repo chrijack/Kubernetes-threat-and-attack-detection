@@ -1,4 +1,4 @@
-# Lesson 29.2 — Kubernetes Security Monitoring with Loki, Prometheus, and Grafana
+# Lesson 4.2 — Kubernetes Security Monitoring with Loki, Prometheus, and Grafana
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 

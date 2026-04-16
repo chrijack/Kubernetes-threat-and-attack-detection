@@ -1,4 +1,4 @@
-# Lesson 29.1 — MITRE Container Framework Demo
+# Lesson 4.1 — MITRE Container Framework Demo
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 

@@ -1,4 +1,4 @@
-# Lesson 27.4 — Kubernetes Audit Logging with Grafana Loki
+# Lesson 2.4 — Kubernetes Audit Logging with Grafana Loki
 
 > From the [Certified Kubernetes Security Specialist (CKS) Video Course](https://www.pearsonitcertification.com/store/certified-kubernetes-security-specialist-cks-video-9780138296476)
 
